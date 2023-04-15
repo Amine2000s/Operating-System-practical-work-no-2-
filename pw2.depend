@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1681513660 source:/home/aminchabi/Desktop/operating system pw2 /pw2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"amin1.h"
+
+1681513674 /home/aminchabi/Desktop/operating system pw2 /pw2/amin1.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1681514241 source:/home/aminchabi/Desktop/operating system pw2 /pw2/amin1.c
+	"amin1.h"
+
